@@ -1,7 +1,3 @@
----
-layout: default
----
-
 ## TryHackMe | Gotta Catch Em All
 
 ### Step 1: Recon:
