@@ -17,7 +17,7 @@ At the bottom of the page we'll find a note left by someone with a username. We'
 
 Most websites typically have a robots.txt file that holds instructions for bots that provide rules for what webpages they can and can't access. So lets go and check that as well!
 
-![PickleRickRobotsTxt] (THMScreenshots/PickleRick/PickleRickRobotsTxt.png)
+![PickleRickRobotsTxt](THMScreenshots/PickleRick/PickleRickRobotsTxt.png)
 
 Robots.txt brings us to a blank webpage with just this string of text. This could possibly be useful later, maybe it goes with the username we found in the source code of the original webpage.
 
