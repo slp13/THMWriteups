@@ -1,4 +1,3 @@
-theme: jekyll-theme-midnight
 ## TryHackMe | Gotta Catch Em All
 
 ### Step 1: Recon:
