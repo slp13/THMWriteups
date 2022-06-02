@@ -1,3 +1,4 @@
+theme: jekyll-theme-midnight
 ## TryHackMe | Gotta Catch Em All
 
 ### Step 1: Recon:
@@ -75,3 +76,5 @@ su ash
 Now go get that last flag from roots-pokemon.txt.
 
 ## Congratulations! You've completed the Gotta Catch'em All Room!
+
+
