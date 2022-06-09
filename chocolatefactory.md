@@ -37,7 +37,7 @@ steghide extract -sf gum_room.jpg
 
 The steghide tool will extract the contents of the image into a .txt file, which seems to be encoded with base64.
 
-![steghide](THMScreenshots/ChocolateFactory/steghide.jpg)
+![steghide](THMScreenshots/ChocolateFactory/steghide.png)
 
 We can use the following command to decode the contents:
 ```
