@@ -24,7 +24,7 @@ smbclient -L [Target IP]
 ```
 It looks like there's a pics share we can access. You can get into the smb share with the command
 ```
-smbclient \\\targetip\\share
+smbclient \\\\targetip\\share
 ```
 ![SMBClient](THMScreenshots/Anonymous/SMBClient.png)
 
