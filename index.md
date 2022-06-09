@@ -12,4 +12,6 @@ Welcome to my Writeups Page! Below is a link to all my currently finished TryHac
 
 * [Relevant](relevant.md)
 
+* [Anonymous](Anonymous.md)
+
 I'm also learning at the same time and will continue to post more advanced walkthroughs/writeups as I learn!
