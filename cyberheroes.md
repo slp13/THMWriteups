@@ -19,12 +19,12 @@ First step is to inspect the source code.
 
 We can see where the input boxes are and that they're assigned to the IDs uname and pass. If we look just below that, there's a script!
 
-![LoginCreds](THMScreenshots/CyberHeroes/LoginCreds)
+![LoginCreds](THMScreenshots/CyberHeroes/LoginCreds.png)
 
 In the script, you can see they're setting the variable "a" equivlant to "uname," which is our username, and "b" is equivalent to "pass," or our password. Upon further examination of the function, you can find an if statement that seems to be testing what we input, and seeing if it matches two certain strings.
 
 Use those values and you're now able to log in!
 
-![Flag](THMScreenshots/CyberHeroes/Flag)
+![Flag](THMScreenshots/CyberHeroes/Flag.png)
 
 ## Congratulations on completing the CyberHeroes room!
