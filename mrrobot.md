@@ -86,7 +86,7 @@ From here you can navigate to the ```/home/robot``` directory to find key 2. How
 
 We can either crack this has using john the ripper, or the online service https://crackstation.net. I chose to use crackstation here but either works.
 
-![Crackstation](THMScreenshots/MrRobot/Crackstation.png)
+![CrackStation](THMScreenshots/MrRobot/CrackStation.png)
 
 With the hash cracked, we can now log in as the robot user and retrieve key 2!
 
