@@ -20,6 +20,7 @@ ftp [target IP]
 ```
 
 Upon first glance, it seems like there's nothing in the FTP server. But if you use the ```-la``` tag along with the ```ls``` command, we'll find a hidden file.
+
 ![FTPFile](THMScreenshots/Boiler/FTPFile.png)
 
 Let's bring this txt file over to our machine using 
