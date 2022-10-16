@@ -1,10 +1,14 @@
 Welcome to my Writeups Page! Below is a link to all my currently finished TryHackMe room walkthroughs. I hope they help!
 
+* [Mr. Robot](mrrobot.md)
+
+* [Anthem](anthem.md)
+
+* [Basic Penetration Testing](BasicPentesting.md)
+
 * [Gotta Catch Em All](pokemon.md)
 
 * [Pickle Rick](picklerick.md)
-
-* [Basic Penetration Testing](BasicPentesting.md)
 
 * [Cyborg](cyborg.md)
 
@@ -14,11 +18,7 @@ Welcome to my Writeups Page! Below is a link to all my currently finished TryHac
 
 * [Anonymous](anonymous.md)
 
-* [Anthem](anthem.md)
-
 * [CyberHeroes](cyberheroes.md)
-
-* [Mr. Robot](mrrobot.md)
 
 * [Boiler](boiler.md)
 
